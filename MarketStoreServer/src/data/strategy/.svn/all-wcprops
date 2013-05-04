@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/MarketStoreServer/!svn/ver/67/src/data/strategy
+END
+AmountOnSaleStra.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MarketStoreServer/!svn/ver/67/src/data/strategy/AmountOnSaleStra.java
+END
+GoodsGiftStra.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MarketStoreServer/!svn/ver/53/src/data/strategy/GoodsGiftStra.java
+END
+AmountGiftStra.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MarketStoreServer/!svn/ver/67/src/data/strategy/AmountGiftStra.java
+END
+GoodsOnSaleStra.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MarketStoreServer/!svn/ver/53/src/data/strategy/GoodsOnSaleStra.java
+END

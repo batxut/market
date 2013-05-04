@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="EKTN8V5XZMRR8XN" name="JUnit.AllTests" tests="50" time="0.776" timestamp="2011-12-11T07:56:37">
+  <properties>
+    <property name="java.vendor" value="Sun Microsystems Inc." />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/D:/应用软件/java/eclipse/eclipse/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/templates/" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 7" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+    <property name="env.COMPUTERNAME" value="EKTN8V5XZMRR8XN" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="ant.home" value="D:\应用软件\java\eclipse\eclipse\plugins\org.apache.ant_1.7.1.v20090120-1145" />
+    <property name="java.runtime.version" value="1.6.0_24-b07" />
+    <property name="env.HOMEPATH" value="\Users\Administrator" />
+    <property name="user.name" value="Administrator" />
+    <property name="user.language" value="zh" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+    <property name="ant.project.name" value="MarketStoreServer" />
+    <property name="java.version" value="1.6.0_24" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="x86 Family 6 Model 37 Stepping 5, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.TEMP" value="C:\Users\ADMINI~1\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="32" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="GBK" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="ECLIPSE_HOME" value="../../../应用软件/java/eclipse/eclipse" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="50.0" />
+    <property name="user.country" value="CN" />
+    <property name="java.home" value="C:\Program Files\Java\jre6" />
+    <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Users\Administrator\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="D:\Java\大二\MarketStoreServer\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="ant.file.MarketStoreServer" value="D:\Java\大二\MarketStoreServer\build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="19.1-b02" />
+    <property name="env.USERPROFILE" value="C:\Users\Administrator" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="D:\应用软件\java\eclipse\eclipse\plugins\org.apache.ant_1.7.1.v20090120-1145\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\ADMINI~1\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="eclipse.pdebuild.scripts" value="/D:/应用软件/java/eclipse/eclipse/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/scripts/" />
+    <property name="user.home" value="C:\Users\Administrator" />
+    <property name="target" value="1.6" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="env.CLASSPATH" value=".;.;D:\Ӧ�����\JMF21~1.1E\lib\sound.jar;D:\Ӧ�����\JMF21~1.1E\lib\jmf.jar;D:\Ӧ�����\JMF21~1.1E\lib;" />
+    <property name="env.1830B7BD-F7A3-4c4d-989B-C004DE465EDE" value="13bc:2f6960" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Windows7Master;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.6.0_24\bin" />
+    <property name="java.vendor.url" value="http://java.sun.com/" />
+    <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="java.class.path" value="D:\Java\大二\MarketStoreServer\bin;D:\应用软件\java\eclipse\eclipse\plugins\org.junit4_4.5.0.v20090824\junit.jar;D:\应用软件\java\eclipse\eclipse\plugins\org.hamcrest.core_1.1.0.v20090501071000.jar;D:\Java\大二\MarketStoreServer;D:\应用软件\java\eclipse\eclipse\plugins\org.apache.ant_1.7.1.v20090120-1145\lib\ant-launcher.jar;D:\应用软件\java\eclipse\eclipse\plugins\org.apache.ant_1.7.1.v20090120-1145\lib\ant.jar;D:\应用软件\java\eclipse\eclipse\plugins\org.apache.ant_1.7.1.v20090120-1145\lib\ant-junit.jar" />
+    <property name="ant.version" value="Apache Ant version 1.7.1 compiled on June 27 2008" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.windir" value="C:\Windows" />
+    <property name="env.LOGONSERVER" value="\\EKTN8V5XZMRR8XN" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="x86" />
+    <property name="java.vm.specification.version" value="1.0" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ANT_HOME" value="D:\Ӧ�����\java\eclipse\eclipse\plugins\org.apache.ant_1.7.1.v20090120-1145" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="eclipse.pdebuild.home" value="/D:/应用软件/java/eclipse/eclipse/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/./" />
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\" />
+    <property name="env.PROCESSOR_REVISION" value="2505" />
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+    <property name="env.SystemRoot" value="C:\Windows" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="os.arch" value="x86" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\Administrator\AppData\Local" />
+    <property name="user.dir" value="D:\Java\大二\MarketStoreServer" />
+    <property name="line.separator" value="
+" />
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Windows7Master;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.6.0_24\bin" />
+    <property name="basedir" value="D:\Java\大二\MarketStoreServer" />
+    <property name="ant.java.version" value="1.6" />
+    <property name="ant.core.lib" value="D:\应用软件\java\eclipse\eclipse\plugins\org.apache.ant_1.7.1.v20090120-1145\lib\ant.jar" />
+    <property name="env.USERNAME" value="Administrator" />
+    <property name="source" value="1.6" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="GBK" />
+    <property name="env.VS100COMNTOOLS" value="C:\Program Files\Microsoft Visual Studio 10.0\Common7\Tools\" />
+    <property name="env.USERDOMAIN" value="EKTN8V5XZMRR8XN" />
+    <property name="java.specification.version" value="1.6" />
+    <property name="env._DFX_INSTALL_UNSIGNED_DRIVER" value="1" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="JUnit.Controlers.CheckGoodsControlerTest" name="testAnalyseStorage" time="0.016" />
+  <testcase classname="JUnit.Controlers.Input_GoodsControlerTest" name="testAddGoods" time="0.01" />
+  <testcase classname="JUnit.Controlers.Input_GoodsControlerTest" name="testGetStored_goods" time="0.0050" />
+  <testcase classname="JUnit.Controlers.Output_GoodsControlerTest" name="testSearchByType" time="0.0090" />
+  <testcase classname="JUnit.Controlers.Output_GoodsControlerTest" name="testSearchByID" time="0.0080" />
+  <testcase classname="JUnit.Controlers.Output_GoodsControlerTest" name="testSearchByPrice" time="0.0070" />
+  <testcase classname="JUnit.Controlers.Output_GoodsControlerTest" name="testSearchByNumber" time="0.0060" />
+  <testcase classname="JUnit.Controlers.Output_GoodsControlerTest" name="testDeleteGoods" time="0.01" />
+  <testcase classname="JUnit.Controlers.Output_GoodsControlerTest" name="testSearchGifts" time="0.0060" />
+  <testcase classname="JUnit.Controlers.CheckVIPControlerTest" name="testSearchVIPByID" time="0.014" />
+  <testcase classname="JUnit.Controlers.CheckVIPControlerTest" name="testSearchVIPByLevel" time="0.0030" />
+  <testcase classname="JUnit.Controlers.CheckVIPControlerTest" name="testSearchVIPByName" time="0.0020" />
+  <testcase classname="JUnit.Controlers.CheckVIPControlerTest" name="testGeneralSearch" time="0.0030" />
+  <testcase classname="JUnit.Controlers.CountVIPControlerTest" name="testCountByGrade" time="0.0030" />
+  <testcase classname="JUnit.Controlers.CountVIPControlerTest" name="testCountByPoint" time="0.0010" />
+  <testcase classname="JUnit.Controlers.DevelopVIPControlerTest" name="testAddVIPs" time="0.0040" />
+  <testcase classname="JUnit.Controlers.DevelopVIPControlerTest" name="testGetPresentNum" time="0.0010" />
+  <testcase classname="JUnit.Controlers.GiveGiftControlerTest" name="testSearchGiftVIP" time="0.0060" />
+  <testcase classname="JUnit.Controlers.GiveGiftControlerTest" name="testSearchGift" time="0.0070" />
+  <testcase classname="JUnit.Controlers.GiveGiftControlerTest" name="testGiveGift" time="0.0070" />
+  <testcase classname="JUnit.DataOperation.GetDataTest" name="testGetSalesmans" time="0.0020" />
+  <testcase classname="JUnit.DataOperation.GetDataTest" name="testGetGoods" time="0.0030" />
+  <testcase classname="JUnit.DataOperation.GetDataTest" name="testGetVIPs" time="0.0010" />
+  <testcase classname="JUnit.DataOperation.GetDataTest" name="testGetAmountGiftStralist" time="0.0020" />
+  <testcase classname="JUnit.DataOperation.GetDataTest" name="testGetAmountOnSaleStraList" time="0.0020" />
+  <testcase classname="JUnit.DataOperation.GetDataTest" name="testGetGoodsGiftStralist" time="0.0010" />
+  <testcase classname="JUnit.DataOperation.GetDataTest" name="testGetGoodsOnSaleStraList" time="0.0020" />
+  <testcase classname="JUnit.DataOperation.SaveDataTest" name="testSaveGoodsInfo" time="0.01" />
+  <testcase classname="JUnit.DataOperation.SaveDataTest" name="testSaveVIPInfo" time="0.0080" />
+  <testcase classname="JUnit.DataOperation.SaveDataTest" name="testSaveSalesmanInfo" time="0.0080" />
+  <testcase classname="JUnit.DataOperation.SaveDataTest" name="testSaveAmountGiftStra" time="0.0080" />
+  <testcase classname="JUnit.DataOperation.SaveDataTest" name="testSaveAmountOnSaleStra" time="0.0070" />
+  <testcase classname="JUnit.DataOperation.SaveDataTest" name="testSaveGoodsGiftStra" time="0.0070" />
+  <testcase classname="JUnit.DataOperation.SaveDataTest" name="testSaveGoodsOnSaleStra" time="0.0070" />
+  <testcase classname="JUnit.server.GUI.StoreServerTest" name="testMain" time="0.189" />
+  <testcase classname="JUnit.server.GUI.LoginPanelTest" name="testShowPanel" time="0.039" />
+  <testcase classname="JUnit.server.GUI.StoreManagerLoginPanelTest" name="testShowPanel" time="0.0030" />
+  <testcase classname="JUnit.server.GUI.StoreManagerIndividualPanelTest" name="testShowPanel" time="0.145" />
+  <testcase classname="JUnit.server.GUI.GoodsManagePanelTest" name="testShowPanel" time="0.024" />
+  <testcase classname="JUnit.server.GUI.CheckGoodsPanelTest" name="testShowPanel" time="0.0020" />
+  <testcase classname="JUnit.server.GUI.CheckGoodsPanelTest" name="testCheckGoodsPanel" time="0.0" />
+  <testcase classname="JUnit.server.GUI.InputGoodsPanelTest" name="testShowPanel" time="0.017" />
+  <testcase classname="JUnit.server.GUI.OutputGoodsPanelTest" name="testShowPanel" time="0.0070" />
+  <testcase classname="JUnit.server.GUI.VIPManagePanelTest" name="testShowPanel" time="0.026" />
+  <testcase classname="JUnit.server.GUI.CheckVIPPanelTest" name="testShowPanel" time="0.0020" />
+  <testcase classname="JUnit.server.GUI.CountVIPPanelTest" name="testShowPanel" time="0.0040" />
+  <testcase classname="JUnit.server.GUI.DevelopVIPPanelTest" name="testShowPanel" time="0.011" />
+  <testcase classname="JUnit.server.GUI.GiveGiftPanelTest" name="testShowPanel" time="0.0050" />
+  <testcase classname="JUnit.server.GUI.NetConnectPanelTest" name="testShowPanel" time="0.0010" />
+  <testcase classname="JUnit.server.GUI.ConnectClientPanelTest" name="testShowPanel" time="0.0020" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/MarketClient/!svn/ver/70/src/logic
+END
+SalesStra.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MarketClient/!svn/ver/59/src/logic/SalesStra.java
+END
+SearchUserControll.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MarketClient/!svn/ver/60/src/logic/SearchUserControll.java
+END
+SearchBillControll.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MarketClient/!svn/ver/60/src/logic/SearchBillControll.java
+END
+SaveInfoControll.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MarketClient/!svn/ver/60/src/logic/SaveInfoControll.java
+END
+ListOperationControll.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MarketClient/!svn/ver/70/src/logic/ListOperationControll.java
+END
+CalculateControll.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MarketClient/!svn/ver/70/src/logic/CalculateControll.java
+END
+SearchGoodsControll.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MarketClient/!svn/ver/60/src/logic/SearchGoodsControll.java
+END

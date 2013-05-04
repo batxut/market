@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MarketServer/!svn/ver/107/src/MarketServerData/stra
+END
+商品特价策略.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MarketServer/!svn/ver/107/src/MarketServerData/stra/%E5%95%86%E5%93%81%E7%89%B9%E4%BB%B7%E7%AD%96%E7%95%A5.txt
+END
+总额特价策略.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MarketServer/!svn/ver/107/src/MarketServerData/stra/%E6%80%BB%E9%A2%9D%E7%89%B9%E4%BB%B7%E7%AD%96%E7%95%A5.txt
+END
+总价赠送策略.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MarketServer/!svn/ver/107/src/MarketServerData/stra/%E6%80%BB%E4%BB%B7%E8%B5%A0%E9%80%81%E7%AD%96%E7%95%A5.txt
+END
+商品赠送策略.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MarketServer/!svn/ver/107/src/MarketServerData/stra/%E5%95%86%E5%93%81%E8%B5%A0%E9%80%81%E7%AD%96%E7%95%A5.txt
+END

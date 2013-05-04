@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/MarketStoreServer/!svn/ver/122/src/Interface
+END
+GiveGiftInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MarketStoreServer/!svn/ver/122/src/Interface/GiveGiftInterface.java
+END
+CountVIPInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MarketStoreServer/!svn/ver/53/src/Interface/CountVIPInterface.java
+END
+CheckGoodsInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MarketStoreServer/!svn/ver/43/src/Interface/CheckGoodsInterface.java
+END
+Input_GoodsInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MarketStoreServer/!svn/ver/48/src/Interface/Input_GoodsInterface.java
+END
+Output_GoodsInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MarketStoreServer/!svn/ver/119/src/Interface/Output_GoodsInterface.java
+END
+CheckVIPInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MarketStoreServer/!svn/ver/119/src/Interface/CheckVIPInterface.java
+END
+DevelopVIPInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MarketStoreServer/!svn/ver/53/src/Interface/DevelopVIPInterface.java
+END

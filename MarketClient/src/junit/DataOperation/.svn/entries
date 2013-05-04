@@ -1,0 +1,52 @@
+8
+
+dir
+83
+https://kevin-pc/svn/MarketClient/src/junit/DataOperation
+https://kevin-pc/svn/MarketClient
+
+
+
+2011-12-11T08:43:16.338992Z
+77
+ab
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+78f63ca1-1097-cc4f-ab31-2d4778093d5a
+
+SaveDataTest.java
+file
+
+
+
+
+2011-12-11T12:53:26.153036Z
+9303a764be556df8bfc39e5c1b036952
+2011-12-11T08:43:16.338992Z
+77
+ab
+
+GetDataTest.java
+file
+
+
+
+
+2011-12-11T12:53:26.158036Z
+71468ff9644e69c46bab0b1881cdc28b
+2011-12-11T08:43:16.338992Z
+77
+ab
+

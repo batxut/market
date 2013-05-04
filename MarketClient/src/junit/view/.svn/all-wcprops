@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/MarketClient/!svn/ver/77/src/junit/view
+END
+MainFrameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MarketClient/!svn/ver/77/src/junit/view/MainFrameTest.java
+END
+IndividualPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MarketClient/!svn/ver/77/src/junit/view/IndividualPanelTest.java
+END
+LoginPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MarketClient/!svn/ver/77/src/junit/view/LoginPanelTest.java
+END
+ReturnGoodsPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MarketClient/!svn/ver/77/src/junit/view/ReturnGoodsPanelTest.java
+END
+SellGoodsPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MarketClient/!svn/ver/77/src/junit/view/SellGoodsPanelTest.java
+END
+SalesmanIndividualPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MarketClient/!svn/ver/77/src/junit/view/SalesmanIndividualPanelTest.java
+END
+SalesmanLoginPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MarketClient/!svn/ver/77/src/junit/view/SalesmanLoginPanelTest.java
+END

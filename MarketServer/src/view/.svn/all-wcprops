@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/MarketServer/!svn/ver/102/src/view
+END
+MainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/MarketServer/!svn/ver/82/src/view/MainFrame.java
+END
+IndividualPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MarketServer/!svn/ver/82/src/view/IndividualPanel.java
+END
+LoginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MarketServer/!svn/ver/87/src/view/LoginPanel.java
+END
+AdministratorIndividualPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MarketServer/!svn/ver/82/src/view/AdministratorIndividualPanel.java
+END
+AdministratorLoginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MarketServer/!svn/ver/76/src/view/AdministratorLoginPanel.java
+END
+ChooseIdentityPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MarketServer/!svn/ver/87/src/view/ChooseIdentityPanel.java
+END
+GManagerIndividualPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MarketServer/!svn/ver/97/src/view/GManagerIndividualPanel.java
+END
+GManagerLoginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MarketServer/!svn/ver/38/src/view/GManagerLoginPanel.java
+END
+MyTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MarketServer/!svn/ver/85/src/view/MyTableModel.java
+END

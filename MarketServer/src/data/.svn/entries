@@ -1,0 +1,58 @@
+8
+
+dir
+107
+https://kevin-pc/svn/MarketServer/src/data
+https://kevin-pc/svn/MarketServer
+
+
+
+2011-12-04T12:54:31.234321Z
+70
+llt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c83ba6c-03b0-f746-b551-7c20e226bf9a
+
+strategy
+dir
+
+MyDate.java
+file
+
+
+
+
+2011-12-18T02:38:39.309970Z
+4024673b73182a630f9013e26b7b48f5
+2011-12-03T07:51:39.989195Z
+30
+cz
+
+Goods.java
+file
+
+
+
+
+2011-12-18T02:38:39.314970Z
+1352e2eab4eb8ae1ab072d9e552ee7aa
+2011-12-04T10:24:54.864902Z
+67
+cz
+
+user
+dir
+

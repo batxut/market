@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/MarketServer/!svn/ver/85/src/JUnit/logic
+END
+Controll4Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MarketServer/!svn/ver/76/src/JUnit/logic/Controll4Test.java
+END
+SearchStraControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MarketServer/!svn/ver/76/src/JUnit/logic/SearchStraControllerTest.java
+END
+SearchGoodsControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MarketServer/!svn/ver/76/src/JUnit/logic/SearchGoodsControllerTest.java
+END
+SearchUserControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MarketServer/!svn/ver/76/src/JUnit/logic/SearchUserControllerTest.java
+END
+SearchSMControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MarketServer/!svn/ver/76/src/JUnit/logic/SearchSMControllerTest.java
+END
+SearchGMControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MarketServer/!svn/ver/76/src/JUnit/logic/SearchGMControllerTest.java
+END
+SearchSalesmanControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MarketServer/!svn/ver/76/src/JUnit/logic/SearchSalesmanControllerTest.java
+END
+SaveInfoControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MarketServer/!svn/ver/85/src/JUnit/logic/SaveInfoControllerTest.java
+END

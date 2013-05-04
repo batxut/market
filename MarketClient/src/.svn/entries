@@ -1,0 +1,52 @@
+8
+
+dir
+83
+https://kevin-pc/svn/MarketClient/src
+https://kevin-pc/svn/MarketClient
+
+
+
+2011-12-11T12:09:58.996915Z
+82
+ab
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+78f63ca1-1097-cc4f-ab31-2d4778093d5a
+
+connect
+dir
+
+data
+dir
+
+junit
+dir
+
+dataOperation
+dir
+
+related data
+dir
+
+view
+dir
+
+logic
+dir
+
+client_interface
+dir
+

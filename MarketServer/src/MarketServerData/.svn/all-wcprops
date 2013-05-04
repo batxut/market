@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/MarketServer/!svn/ver/107/src/MarketServerData
+END
+Salesman.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MarketServer/!svn/ver/107/src/MarketServerData/Salesman.txt
+END
+storeManager.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MarketServer/!svn/ver/107/src/MarketServerData/storeManager.txt
+END
+GeneralManager.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MarketServer/!svn/ver/107/src/MarketServerData/GeneralManager.txt
+END
+Goods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MarketServer/!svn/ver/107/src/MarketServerData/Goods.txt
+END

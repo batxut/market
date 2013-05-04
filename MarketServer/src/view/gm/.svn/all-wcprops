@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/MarketServer/!svn/ver/96/src/view/gm
+END
+NetConnectPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MarketServer/!svn/ver/96/src/view/gm/NetConnectPanel.java
+END
+RemoveStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MarketServer/!svn/ver/85/src/view/gm/RemoveStrategy.java
+END
+AmountOnSale.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MarketServer/!svn/ver/78/src/view/gm/AmountOnSale.java
+END
+OnSalesStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MarketServer/!svn/ver/82/src/view/gm/OnSalesStrategy.java
+END
+GoodsSaleGiftPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MarketServer/!svn/ver/77/src/view/gm/GoodsSaleGiftPanel.java
+END
+ModGoodsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MarketServer/!svn/ver/78/src/view/gm/ModGoodsPanel.java
+END
+AmountGift.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MarketServer/!svn/ver/67/src/view/gm/AmountGift.java
+END
+ConnectStoreServerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MarketServer/!svn/ver/96/src/view/gm/ConnectStoreServerPanel.java
+END
+GoodsOnSale.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MarketServer/!svn/ver/78/src/view/gm/GoodsOnSale.java
+END

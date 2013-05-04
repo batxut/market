@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/MarketStoreServer/!svn/ver/133/src/server/GUI
+END
+StoreManagerLoginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MarketStoreServer/!svn/ver/133/src/server/GUI/StoreManagerLoginPanel.java
+END
+GoodsManagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MarketStoreServer/!svn/ver/117/src/server/GUI/GoodsManagePanel.java
+END
+ConnectClientPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MarketStoreServer/!svn/ver/108/src/server/GUI/ConnectClientPanel.java
+END
+InputGoodsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MarketStoreServer/!svn/ver/108/src/server/GUI/InputGoodsPanel.java
+END
+OutputGoodsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MarketStoreServer/!svn/ver/110/src/server/GUI/OutputGoodsPanel.java
+END
+CheckVIPPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MarketStoreServer/!svn/ver/122/src/server/GUI/CheckVIPPanel.java
+END
+StoreManagerIndividualPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MarketStoreServer/!svn/ver/108/src/server/GUI/StoreManagerIndividualPanel.java
+END
+NetConnectPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MarketStoreServer/!svn/ver/119/src/server/GUI/NetConnectPanel.java
+END
+StoreServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MarketStoreServer/!svn/ver/130/src/server/GUI/StoreServer.java
+END
+StoreManagerInfoPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MarketStoreServer/!svn/ver/99/src/server/GUI/StoreManagerInfoPanel.java
+END
+GiveGiftPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MarketStoreServer/!svn/ver/133/src/server/GUI/GiveGiftPanel.java
+END
+VIPManagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MarketStoreServer/!svn/ver/117/src/server/GUI/VIPManagePanel.java
+END
+CountVIPPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MarketStoreServer/!svn/ver/108/src/server/GUI/CountVIPPanel.java
+END
+LoginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MarketStoreServer/!svn/ver/133/src/server/GUI/LoginPanel.java
+END
+CheckGoodsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MarketStoreServer/!svn/ver/122/src/server/GUI/CheckGoodsPanel.java
+END
+DevelopVIPPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MarketStoreServer/!svn/ver/108/src/server/GUI/DevelopVIPPanel.java
+END

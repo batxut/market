@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/MarketClient/!svn/ver/55/src/client_interface
+END
+SearchGoods.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MarketClient/!svn/ver/34/src/client_interface/SearchGoods.java
+END
+SearchUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MarketClient/!svn/ver/41/src/client_interface/SearchUser.java
+END
+SearchBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MarketClient/!svn/ver/34/src/client_interface/SearchBill.java
+END
+SaveInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MarketClient/!svn/ver/55/src/client_interface/SaveInfo.java
+END
+ListOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MarketClient/!svn/ver/34/src/client_interface/ListOperation.java
+END
+Calculate.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MarketClient/!svn/ver/34/src/client_interface/Calculate.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/MarketServer/!svn/ver/67/src/server_interface
+END
+SearchStra.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MarketServer/!svn/ver/21/src/server_interface/SearchStra.java
+END
+SearchGoods.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MarketServer/!svn/ver/67/src/server_interface/SearchGoods.java
+END
+IsIDRepeated.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MarketServer/!svn/ver/16/src/server_interface/IsIDRepeated.java
+END
+SearchUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MarketServer/!svn/ver/37/src/server_interface/SearchUser.java
+END
+SearchSM.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MarketServer/!svn/ver/37/src/server_interface/SearchSM.java
+END
+SearchGM.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MarketServer/!svn/ver/37/src/server_interface/SearchGM.java
+END
+SearchSalesman.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MarketServer/!svn/ver/39/src/server_interface/SearchSalesman.java
+END
+SaveInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MarketServer/!svn/ver/37/src/server_interface/SaveInfo.java
+END

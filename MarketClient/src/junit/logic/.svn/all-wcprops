@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/MarketClient/!svn/ver/77/src/junit/logic
+END
+SearchGoodsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MarketClient/!svn/ver/77/src/junit/logic/SearchGoodsTest.java
+END
+SearchUserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MarketClient/!svn/ver/77/src/junit/logic/SearchUserTest.java
+END
+SaveInfoControllTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MarketClient/!svn/ver/77/src/junit/logic/SaveInfoControllTest.java
+END
+SearchBillTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MarketClient/!svn/ver/77/src/junit/logic/SearchBillTest.java
+END
+CalculateControllTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MarketClient/!svn/ver/77/src/junit/logic/CalculateControllTest.java
+END
+ListOperationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MarketClient/!svn/ver/77/src/junit/logic/ListOperationTest.java
+END

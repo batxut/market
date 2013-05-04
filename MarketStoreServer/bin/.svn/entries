@@ -1,0 +1,62 @@
+8
+
+dir
+133
+https://kevin-pc/svn/MarketStoreServer/bin
+https://kevin-pc/svn/MarketStoreServer
+
+
+
+2011-11-20T14:13:00.732135Z
+14
+llt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47df27e0-9397-0844-91c4-0257daaccfe9
+
+Logic_Data
+dir
+
+
+
+delete
+
+server
+dir
+
+View_Logic
+dir
+
+
+
+delete
+
+JUnit
+dir
+
+goods
+dir
+
+
+
+delete
+
+user
+dir
+
+
+
+delete
+

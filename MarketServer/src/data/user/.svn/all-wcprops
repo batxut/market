@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/MarketServer/!svn/ver/70/src/data/user
+END
+Administrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MarketServer/!svn/ver/36/src/data/user/Administrator.java
+END
+Salesman.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MarketServer/!svn/ver/63/src/data/user/Salesman.java
+END
+StoreManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MarketServer/!svn/ver/70/src/data/user/StoreManager.java
+END
+GeneralManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MarketServer/!svn/ver/36/src/data/user/GeneralManager.java
+END

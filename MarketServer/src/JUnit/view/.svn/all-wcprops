@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/MarketServer/!svn/ver/85/src/JUnit/view
+END
+MainFrameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MarketServer/!svn/ver/6/src/JUnit/view/MainFrameTest.java
+END
+LoginPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MarketServer/!svn/ver/76/src/JUnit/view/LoginPanelTest.java
+END
+AdministratorIndividualPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MarketServer/!svn/ver/76/src/JUnit/view/AdministratorIndividualPanelTest.java
+END
+AdministratorLoginPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MarketServer/!svn/ver/76/src/JUnit/view/AdministratorLoginPanelTest.java
+END
+GManagerIndividualPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MarketServer/!svn/ver/76/src/JUnit/view/GManagerIndividualPanelTest.java
+END
+GManagerLoginPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MarketServer/!svn/ver/76/src/JUnit/view/GManagerLoginPanelTest.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/MarketClient/!svn/ver/82/src/view
+END
+MainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/MarketClient/!svn/ver/69/src/view/MainFrame.java
+END
+IndividualPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MarketClient/!svn/ver/75/src/view/IndividualPanel.java
+END
+LoginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MarketClient/!svn/ver/78/src/view/LoginPanel.java
+END
+ReturnGoodsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MarketClient/!svn/ver/82/src/view/ReturnGoodsPanel.java
+END
+SellGoodsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MarketClient/!svn/ver/84/src/view/SellGoodsPanel.java
+END
+SalesmanIndividualPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MarketClient/!svn/ver/76/src/view/SalesmanIndividualPanel.java
+END
+SalesmanLoginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MarketClient/!svn/ver/79/src/view/SalesmanLoginPanel.java
+END
+VIPDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/MarketClient/!svn/ver/41/src/view/VIPDialog.java
+END

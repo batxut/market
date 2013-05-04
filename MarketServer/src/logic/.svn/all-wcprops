@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/MarketServer/!svn/ver/85/src/logic
+END
+Controll4.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MarketServer/!svn/ver/41/src/logic/Controll4.java
+END
+SearchStraController.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MarketServer/!svn/ver/41/src/logic/SearchStraController.java
+END
+SearchGoodsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MarketServer/!svn/ver/85/src/logic/SearchGoodsController.java
+END
+SearchUserController.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MarketServer/!svn/ver/41/src/logic/SearchUserController.java
+END
+SearchSMController.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MarketServer/!svn/ver/41/src/logic/SearchSMController.java
+END
+SearchGMController.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MarketServer/!svn/ver/67/src/logic/SearchGMController.java
+END
+SearchSalesmanController.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MarketServer/!svn/ver/41/src/logic/SearchSalesmanController.java
+END
+SaveInfoController.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MarketServer/!svn/ver/41/src/logic/SaveInfoController.java
+END

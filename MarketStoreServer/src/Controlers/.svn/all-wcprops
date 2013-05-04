@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/MarketStoreServer/!svn/ver/122/src/Controlers
+END
+CountVIPControler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MarketStoreServer/!svn/ver/110/src/Controlers/CountVIPControler.java
+END
+CheckGoodsControler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MarketStoreServer/!svn/ver/74/src/Controlers/CheckGoodsControler.java
+END
+Input_GoodsControler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MarketStoreServer/!svn/ver/110/src/Controlers/Input_GoodsControler.java
+END
+Output_GoodsControler.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MarketStoreServer/!svn/ver/119/src/Controlers/Output_GoodsControler.java
+END
+CheckVIPControler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MarketStoreServer/!svn/ver/119/src/Controlers/CheckVIPControler.java
+END
+DevelopVIPControler.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MarketStoreServer/!svn/ver/110/src/Controlers/DevelopVIPControler.java
+END
+GiveGiftControler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MarketStoreServer/!svn/ver/122/src/Controlers/GiveGiftControler.java
+END

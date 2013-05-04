@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI
+END
+StoreManagerLoginPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/StoreManagerLoginPanelTest.java
+END
+GoodsManagePanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/GoodsManagePanelTest.java
+END
+ConnectClientPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/ConnectClientPanelTest.java
+END
+InputGoodsPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/InputGoodsPanelTest.java
+END
+OutputGoodsPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/OutputGoodsPanelTest.java
+END
+CheckVIPPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/CheckVIPPanelTest.java
+END
+StoreManagerIndividualPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/StoreManagerIndividualPanelTest.java
+END
+NetConnectPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/NetConnectPanelTest.java
+END
+StoreServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/StoreServerTest.java
+END
+GiveGiftPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/GiveGiftPanelTest.java
+END
+VIPManagePanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/VIPManagePanelTest.java
+END
+CountVIPPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/CountVIPPanelTest.java
+END
+LoginPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/LoginPanelTest.java
+END
+CheckGoodsPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/CheckGoodsPanelTest.java
+END
+DevelopVIPPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MarketStoreServer/!svn/ver/110/src/JUnit/server/GUI/DevelopVIPPanelTest.java
+END
